@@ -2,13 +2,13 @@
 <h3 align="center">Frontend Engineer | React • TypeScript • JavaScript | Building AI-Powered Products</h3>
 
 <p align="center">
-  <a href="<YOUR_LINKEDIN_URL>">
+  <a href="https://www.linkedin.com/in/mohamed-asmaan-337980234/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="<YOUR_PORTFOLIO_URL>">
+  <a href="https://mohamed-asmaan.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:<YOUR_EMAIL>">
+  <a href="mailto:asmaan011@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
