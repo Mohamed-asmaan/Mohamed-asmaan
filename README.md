@@ -108,7 +108,7 @@ JavaScript • Chrome Extension
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=<YOUR_GITHUB_USERNAME>&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mohamed-asmaan&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -118,7 +118,7 @@ JavaScript • Chrome Extension
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_GITHUB_USERNAME>&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-asmaan&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -126,11 +126,10 @@ JavaScript • Chrome Extension
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: <YOUR_LINKEDIN_URL>
-- 🌍 Portfolio: <YOUR_PORTFOLIO_URL>
-- 💻 GitHub: https://github.com/<YOUR_GITHUB_USERNAME>
-- 📧 Email: <YOUR_EMAIL>
-
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-asmaan-337980234/
+- 🌍 Portfolio: https://mohamed-asmaan.github.io/
+- 💻 GitHub: https://github.com/Mohamed-asmaan
+- 📧 Email: asmaan011@gmail.com
 ---
 
 > *"Building products that solve real problems through clean architecture and great user experiences."*
